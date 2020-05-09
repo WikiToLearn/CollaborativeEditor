@@ -7,7 +7,7 @@
 		baseUrl: mw.config.get( 'wgServer' ) +
 			mw.config.get( 'wgExtensionAssetsPath' ) +
 			'/TogetherJS',
-		hubBase: 'http://hub.togetherjs.com/',
+		hubBase: 'https://togetherjs-hub.glitch.me/',
 		
 		useMinimizedCode: true,
 		cacheBust: false,
